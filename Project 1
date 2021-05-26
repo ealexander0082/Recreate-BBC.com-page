@@ -17,7 +17,105 @@
 	</ul>
 </nav>
 <h3>Welcome to BBC.com</h2>				<h3>Wednesday, 26 May</h2>
+ <section>
+ <a href="#">Link</a>
+ <h2>Biden orders urgent new report on Covid origins.</h2>
+ <p>The US president gives intelligence agencies 90 days to report amid controversy over its origin.</p>
+ <span>US & Canada</span>
+ </section>
  
+ <section>
+ <a href="#">Link</a>
+ <h2> Eight killed in California rail yard shooting</h2>
+ <span>US & Canada</span>
+ </section>
+ 
+ <section>
+ <a href="#">Link</a>
+ <h2>Man Utd lose Europa league final - De Gea misses decisive penalty in epic shootout</h2>
+ <span>EUROPEAN FOOTBALL</span>
+ </section>
 
+<section>
+ <a href="#">Link</a>
+ <h2>The battle to open up 'Fortress Australia'</h2>
+ <span>Australia</span>
+ </section>
+ 
+ <section>
+ <a href="#">Link</a>
+ <h2>The masterpiece once deemed 'anti-American'</h2>
+ <span>Culture</span>
+ </section>
+ <br></br>
+ 
 <h3>News</h3>
+
+<DOCTYPE!>
+  <html>
+<nav>
+	<ul>
+<li>BBC</li>
+<li> sign in</li>
+<li> News</li>
+<li> Sport</li>
+ <li>Reel</li>
+<li> Worklife</li>
+<li> Travel</li>
+<li> Future</li>
+<li> More</li>
+ <li>search</li>
+
+
+	</ul>
+</nav>
+<h3>Welcome to BBC.com</h2>				<h3>Wednesday, 26 May</h2>
+ <section>
+ <a href="#">Link</a>
+ <h2>Biden orders urgent new report on Covid origins.</h2>
+ <p>The US president gives intelligence agencies 90 days to report amid controversy over its origin.</p>
+ <span>US & Canada</span>
+ </section>
+ 
+ <section>
+ <a href="#">Link</a>
+ <h2> Eight killed in California rail yard shooting</h2>
+ <span>US & Canada</span>
+ </section>
+ 
+ <section>
+ <a href="#">Link</a>
+ <h2>Man Utd lose Europa league final - De Gea misses decisive penalty in epic shootout</h2>
+ <span>EUROPEAN FOOTBALL</span>
+ </section>
+
+<section>
+ <a href="#">Link</a>
+ <h2>The battle to open up 'Fortress Australia'</h2>
+ <span>Australia</span>
+ </section>
+ 
+ <section>
+ <a href="#">Link</a>
+ <h2>Why China is bent on crushing dissent in Hong Kong</h2>
+ <p>After clamping down on protests it has reformed elections - what does this mean for Hong Kong's future?</p>
+ <span>ASIA</span>
+ </section>
+ 
+ <section>
+ <a href="#">Link</a>
+ <h2>Belarus president rebuffs outrage over journalist</h2>
+ <p>As Western pressure grows, Alexander Lukashenko says his country's critcs are "strangling" Belarus</p>
+ <span>EUROPE</span>
+ 
+ <section>
+ <a href="#">Link</a>
+ <h2>Brad Pitt awarded joint custody of children</h2>
+ <p>The actor has been granted joint custody of his children with Angelina Jole after a court battle</p>
+ <span>ENTERTAINMENT & ARTS</span>
+ </section>
+ </section>
+<h3>News</h3>
+</html>
+
 </html>
